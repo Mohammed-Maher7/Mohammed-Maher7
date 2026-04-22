@@ -63,44 +63,12 @@
 
 <div align="center">
 
-### 🛒 E-Commerce API
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-
-> ⚡ Scalable e-commerce platform — 60% faster cart load · 📉 40% less CPU
-
 [![E-Commerce API](https://github-readme-stats.shion.dev/api/pin/?username=Mohammed-Maher7&repo=Talabat_E-commerce_API&theme=react&hide_border=true)](https://github.com/Mohammed-Maher7/Talabat_E-commerce_API)
-
----
-
-### 🛍️ Modeon E-Commerce
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white)
-
-> 🚀 Responsive SPA with Lazy Loading, Route Guards & Animations
-
 [![Modeon E-Commerce](https://github-readme-stats.shion.dev/api/pin/?username=Mohammed-Maher7&repo=Modeon-Ecommerce&theme=react&hide_border=true)](https://github.com/Mohammed-Maher7/Modeon-Ecommerce)
-
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-modeon.netlify.app-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://modeon.netlify.app/)
-
----
-
-### 📚 E-Library
-![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-
-> 📖 Library management system with CRUD & search functionality
-
 [![E-Library](https://github-readme-stats.shion.dev/api/pin/?username=Mohammed-Maher7&repo=E-Library&theme=react&hide_border=true)](https://github.com/Mohammed-Maher7/E-Library)
-
----
-
-### 🧠 Competitive Programming
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Algorithms](https://img.shields.io/badge/Algorithms-FF6F00?style=flat-square) ![Data Structures](https://img.shields.io/badge/Data_Structures-4CAF50?style=flat-square)
-
-> 🏆 ICPC ECPC 2025 — 4th at Tanta University · Codeforces Solutions
-
-[![Coming Soon](https://img.shields.io/badge/⏳_Repository-Coming_Soon-FFD700?style=for-the-badge)](https://github.com/Mohammed-Maher7)
+[![Food Restaurant](https://github-readme-stats.shion.dev/api/pin/?username=Mohammed-Maher7&repo=Food-Resturant&theme=react&hide_border=true)](https://github.com/Mohammed-Maher7/Food-Resturant)
 
 </div>
-
 ---
 
 # 📊 GitHub Stats:
