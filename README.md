@@ -61,14 +61,47 @@
 
 ## 📌 Featured Projects
 
-<div align="center">
-
-[![E-Commerce API](https://github-readme-stats.shion.dev/api/pin/?username=Mohammed-Maher7&repo=Talabat_E-commerce_API&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&bg_color=0D1117&hide_border=false&border_color=30363D)](https://github.com/Mohammed-Maher7/Talabat_E-commerce_API)
-[![Modeon E-Commerce](https://github-readme-stats.shion.dev/api/pin/?username=Mohammed-Maher7&repo=Modeon-Ecommerce&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&bg_color=0D1117&hide_border=false&border_color=30363D)](https://github.com/Mohammed-Maher7/Modeon-Ecommerce)
-[![E-Library](https://github-readme-stats.shion.dev/api/pin/?username=Mohammed-Maher7&repo=E-Library&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&bg_color=0D1117&hide_border=false&border_color=30363D)](https://github.com/Mohammed-Maher7/E-Library)
-[![Food Restaurant](https://github-readme-stats.shion.dev/api/pin/?username=Mohammed-Maher7&repo=Food-Resturant&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&bg_color=0D1117&hide_border=false&border_color=30363D)](https://github.com/Mohammed-Maher7/Food-Resturant)
-
-</div>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🛒 E-Commerce API</h3>
+      <p><b>ASP.NET Core | Onion Architecture | Stripe | Redis</b></p>
+      <p>Scalable e-commerce platform — ⚡ 60% faster cart load · 📉 40% less CPU</p>
+      <a href="https://github.com/Mohammed-Maher7/Talabat_E-commerce_API">
+        <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <h3>🛍️ Modeon E-Commerce</h3>
+      <p><b>Angular | TypeScript | RxJS | JSON Server</b></p>
+      <p>Responsive SPA with Lazy Loading, Route Guards & Animations</p>
+      <a href="https://github.com/Mohammed-Maher7/Modeon-Ecommerce">
+        <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+      <a href="https://modeon.netlify.app/">
+        <img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>📚 E-Library</h3>
+      <p><b>ASP.NET MVC | C# | JavaScript | SQL Server</b></p>
+      <p>Library management system with CRUD & search functionality</p>
+      <a href="https://github.com/Mohammed-Maher7/E-Library">
+        <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <h3>🧠 Competitive Programming</h3>
+      <p><b>C++ | Algorithms | Data Structures</b></p>
+      <p>ICPC ECPC 2025 solutions & Codeforces problems</p>
+      <a href="https://github.com/Mohammed-Maher7">
+        <img src="https://img.shields.io/badge/Coming_Soon-FFD700?style=for-the-badge&logo=github&logoColor=black"/>
+      </a>
+    </td>
+  </tr>
+</table>
 ---
 
 # 📊 GitHub Stats:
