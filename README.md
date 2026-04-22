@@ -132,12 +132,6 @@
 
 </div>
 
-### 🔝 Top Contributed Repo
-<div align="center">
-
-![](https://github-contributor-stats.vercel.app/api?username=Mohammed-Maher7&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-</div>
 
 ---
 
