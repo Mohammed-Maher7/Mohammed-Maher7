@@ -63,10 +63,10 @@
 
 <div align="center">
 
-[![E-Commerce API](https://github-readme-stats.shion.dev/api/pin/?username=Mohammed-Maher7&repo=Talabat_E-commerce_API&title_color=FFFFFF&text_color=CCCCCC&icon_color=70A5FD&bg_color=1A1B27&hide_border=true)](https://github.com/Mohammed-Maher7/Talabat_E-commerce_API)
-[![Modeon E-Commerce](https://github-readme-stats.shion.dev/api/pin/?username=Mohammed-Maher7&repo=Modeon-Ecommerce&title_color=FFFFFF&text_color=CCCCCC&icon_color=70A5FD&bg_color=1A1B27&hide_border=true)](https://github.com/Mohammed-Maher7/Modeon-Ecommerce)
-[![E-Library](https://github-readme-stats.shion.dev/api/pin/?username=Mohammed-Maher7&repo=E-Library&title_color=FFFFFF&text_color=CCCCCC&icon_color=70A5FD&bg_color=1A1B27&hide_border=true)](https://github.com/Mohammed-Maher7/E-Library)
-[![Food Restaurant](https://github-readme-stats.shion.dev/api/pin/?username=Mohammed-Maher7&repo=Food-Resturant&title_color=FFFFFF&text_color=CCCCCC&icon_color=70A5FD&bg_color=1A1B27&hide_border=true)](https://github.com/Mohammed-Maher7/Food-Resturant)
+[![E-Commerce API](https://github-readme-stats.shion.dev/api/pin/?username=Mohammed-Maher7&repo=Talabat_E-commerce_API&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&bg_color=0D1117&hide_border=false&border_color=30363D)](https://github.com/Mohammed-Maher7/Talabat_E-commerce_API)
+[![Modeon E-Commerce](https://github-readme-stats.shion.dev/api/pin/?username=Mohammed-Maher7&repo=Modeon-Ecommerce&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&bg_color=0D1117&hide_border=false&border_color=30363D)](https://github.com/Mohammed-Maher7/Modeon-Ecommerce)
+[![E-Library](https://github-readme-stats.shion.dev/api/pin/?username=Mohammed-Maher7&repo=E-Library&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&bg_color=0D1117&hide_border=false&border_color=30363D)](https://github.com/Mohammed-Maher7/E-Library)
+[![Food Restaurant](https://github-readme-stats.shion.dev/api/pin/?username=Mohammed-Maher7&repo=Food-Resturant&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&bg_color=0D1117&hide_border=false&border_color=30363D)](https://github.com/Mohammed-Maher7/Food-Resturant)
 
 </div>
 ---
