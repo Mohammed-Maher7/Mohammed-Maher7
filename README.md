@@ -116,11 +116,10 @@
 </div>
 
 ---
-
-## 🏆 GitHub Trophies
+## 📈 Contribution Graph
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=Mohammed-Maher7&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
+![](https://github-readme-activity-graph.vercel.app/graph?username=Mohammed-Maher7&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=70A5FD&line=70A5FD&point=FFFFFF)
 
 </div>
 
