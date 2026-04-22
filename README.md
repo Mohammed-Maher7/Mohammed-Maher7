@@ -63,10 +63,39 @@
 
 <div align="center">
 
-[![E-Commerce API](https://github-readme-stats.shion.dev/api/pin/?username=Mohammed-Maher7&repo=Talabat_E-commerce_API&theme=github_dark_dimmed&hide_border=true)](https://github.com/Mohammed-Maher7/Talabat_E-commerce_API)
-[![Modeon E-Commerce](https://github-readme-stats.shion.dev/api/pin/?username=Mohammed-Maher7&repo=Modeon-Ecommerce&theme=github_dark_dimmed&hide_border=true)](https://github.com/Mohammed-Maher7/Modeon-Ecommerce)
-[![E-Library](https://github-readme-stats.shion.dev/api/pin/?username=Mohammed-Maher7&repo=E-Library&theme=github_dark_dimmed&hide_border=true)](https://github.com/Mohammed-Maher7/E-Library)
-[![Food Restaurant](https://github-readme-stats.shion.dev/api/pin/?username=Mohammed-Maher7&repo=Food-Resturant&theme=github_dark_dimmed&hide_border=true)](https://github.com/Mohammed-Maher7/Food-Resturant)
+### 🛒 E-Commerce API
+**ASP.NET Core | Onion Architecture | Stripe | Redis | SQL Server**
+
+Scalable e-commerce platform — ⚡ 60% faster cart load · 📉 40% less CPU
+
+[![View Code](https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohammed-Maher7/Talabat_E-commerce_API)
+
+---
+
+### 🛍️ Modeon E-Commerce
+**Angular | TypeScript | RxJS | JSON Server**
+
+Responsive SPA with Lazy Loading, Route Guards & Animations
+
+[![View Code](https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohammed-Maher7/Modeon-Ecommerce) [![Live Demo](https://img.shields.io/badge/Netlify-Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://modeon.netlify.app/)
+
+---
+
+### 📚 E-Library
+**ASP.NET MVC | C# | JavaScript | SQL Server**
+
+Library management system with CRUD & search functionality
+
+[![View Code](https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohammed-Maher7/E-Library)
+
+---
+
+### 🧠 Competitive Programming
+**C++ | Algorithms | Data Structures**
+
+ICPC ECPC 2025 solutions & Codeforces problems
+
+[![Coming Soon](https://img.shields.io/badge/GitHub-Coming_Soon-FFD700?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Mohammed-Maher7)
 
 </div>
 
