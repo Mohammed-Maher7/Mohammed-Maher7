@@ -63,33 +63,10 @@
 
 <div align="center">
 
-### 🛒 E-Commerce API
-> Scalable platform — ⚡ 60% faster cart load · 📉 40% less CPU
-
 [![E-Commerce API](https://github-readme-stats.shion.dev/api/pin/?username=Mohammed-Maher7&repo=Talabat_E-commerce_API&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Mohammed-Maher7/Talabat_E-commerce_API)
-
----
-
-### 🛍️ Modeon E-Commerce
-> Responsive SPA with Lazy Loading, Route Guards & Animations
-
-[![Modeon](https://github-readme-stats.shion.dev/api/pin/?username=Mohammed-Maher7&repo=Modeon-Ecommerce&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Mohammed-Maher7/Modeon-Ecommerce)
-
-🔗 **[Live Demo](https://modeon.netlify.app/)**
-
----
-
-### 📚 E-Library
-> Library management system with CRUD & search functionality
-
+[![Modeon E-Commerce](https://github-readme-stats.shion.dev/api/pin/?username=Mohammed-Maher7&repo=Modeon-Ecommerce&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Mohammed-Maher7/Modeon-Ecommerce)
 [![E-Library](https://github-readme-stats.shion.dev/api/pin/?username=Mohammed-Maher7&repo=E-Library&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Mohammed-Maher7/E-Library)
-
----
-
-### 🧠 Competitive Programming
-> ICPC ECPC 2025 solutions & Codeforces problems
-
-[![Coming Soon](https://img.shields.io/badge/🧠_Competitive_Programming-Coming_Soon-FFD700?style=for-the-badge)](https://github.com/Mohammed-Maher7)
+[![Food Restaurant](https://github-readme-stats.shion.dev/api/pin/?username=Mohammed-Maher7&repo=Food-Resturant&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Mohammed-Maher7/Food-Resturant)
 
 </div>
 
