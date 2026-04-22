@@ -2,9 +2,9 @@
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohammed%20Maher&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20.NET%20Developer%20|%20Angular%20|%20ICPC%20Competitor&descSize=18&descAlignY=52"/>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=ASP.NET+Core+%7C+C%23+%7C+SQL+Server+%7C+Angular;Clean+Architecture+%7C+Onion+Architecture+%7C+SOLID;ICPC+ECPC+2025+–+4th+Place+%40+Tanta+University;.NET+Instructor+%7C+Taught+300%2B+Students+🚀" alt="Typing SVG" />
-  </a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=650&lines=ASP.NET+Core+%7C+C%23+%7C+SQL+Server+%7C+Angular;Clean+Architecture+%7C+Onion+Architecture+%7C+SOLID;ICPC+ECPC+2025+%E2%80%93+4th+Place+%40+Tanta+University;.NET+Instructor+%7C+Taught+300%2B+Students" alt="Typing SVG" />
+</a>
 
 </div>
 
