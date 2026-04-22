@@ -61,47 +61,43 @@
 
 ## 📌 Featured Projects
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <h3>🛒 E-Commerce API</h3>
-      <p><b>ASP.NET Core | Onion Architecture | Stripe | Redis</b></p>
-      <p>Scalable e-commerce platform — ⚡ 60% faster cart load · 📉 40% less CPU</p>
-      <a href="https://github.com/Mohammed-Maher7/Talabat_E-commerce_API">
-        <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <h3>🛍️ Modeon E-Commerce</h3>
-      <p><b>Angular | TypeScript | RxJS | JSON Server</b></p>
-      <p>Responsive SPA with Lazy Loading, Route Guards & Animations</p>
-      <a href="https://github.com/Mohammed-Maher7/Modeon-Ecommerce">
-        <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-      <a href="https://modeon.netlify.app/">
-        <img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <h3>📚 E-Library</h3>
-      <p><b>ASP.NET MVC | C# | JavaScript | SQL Server</b></p>
-      <p>Library management system with CRUD & search functionality</p>
-      <a href="https://github.com/Mohammed-Maher7/E-Library">
-        <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <h3>🧠 Competitive Programming</h3>
-      <p><b>C++ | Algorithms | Data Structures</b></p>
-      <p>ICPC ECPC 2025 solutions & Codeforces problems</p>
-      <a href="https://github.com/Mohammed-Maher7">
-        <img src="https://img.shields.io/badge/Coming_Soon-FFD700?style=for-the-badge&logo=github&logoColor=black"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+### 🛒 E-Commerce API
+**ASP.NET Core | Onion Architecture | Stripe | Redis | SQL Server**
+
+Scalable e-commerce platform — ⚡ 60% faster cart load · 📉 40% less CPU
+
+[![View Code](https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohammed-Maher7/Talabat_E-commerce_API)
+
+---
+
+### 🛍️ Modeon E-Commerce
+**Angular | TypeScript | RxJS | JSON Server**
+
+Responsive SPA with Lazy Loading, Route Guards & Animations
+
+[![View Code](https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohammed-Maher7/Modeon-Ecommerce) [![Live Demo](https://img.shields.io/badge/Netlify-Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://modeon.netlify.app/)
+
+---
+
+### 📚 E-Library
+**ASP.NET MVC | C# | JavaScript | SQL Server**
+
+Library management system with CRUD & search functionality
+
+[![View Code](https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohammed-Maher7/E-Library)
+
+---
+
+### 🧠 Competitive Programming
+**C++ | Algorithms | Data Structures**
+
+ICPC ECPC 2025 solutions & Codeforces problems
+
+[![Coming Soon](https://img.shields.io/badge/GitHub-Coming_Soon-FFD700?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Mohammed-Maher7)
+
+</div>
 
 ---
 
